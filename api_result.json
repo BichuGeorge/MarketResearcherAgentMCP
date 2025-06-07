@@ -1,0 +1,31 @@
+{
+  "analysis": {
+    "Opportunities": [
+      "Apple 2025 MacBook Air (15-inch, Apple M4 chip with 10-core CPU and 10-core GPU, 16GB Unified Memory, 256GB) - Silver.",
+      "Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10-core CPU and 8-core GPU, 16GB Unified Memory, 256GB) - Silver",
+      "Description. Supercharged by the next-generation M2 chip, the redesigned MacBook Air combines incredible performance and up to 18 hours of battery life into its\u00a0..."
+    ],
+    "Strengths": [],
+    "Threats": [],
+    "Weaknesses": [
+      "2024 Mac Mini Desktop Computer with M4 chip with 10-core CPU and 10-core GPU: Built for Apple Intelligence, 16GB Unified Memory, 256GB SSD Storage, Gigabit\u00a0...",
+      "Apple MacBook Air Laptop: Apple M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID.",
+      "Mac for Students. ... apple logo - the apple logo - apple logo - - the apple logo - -. Follow.",
+      "Follow to get deals, content, and email updates from this brand. Browse all categories. Sign in \u00b7 Browse. Amazon \u00b7 Amazon Home. Trending. Bestsellers \u00b7 New\u00a0...",
+      "2024 Mac Mini Desktop Computer with M4 Pro chip with 12-core CPU and 16-core GPU: Built for Apple Intelligence, 24GB Unified Memory, 512GB SSD Storage, Gigabit\u00a0...",
+      "2023 Mac Mini Desktop Computer with Apple M2 chip with 8-core CPU and 10-core GPU, 8GB Unified Memory, 512GB SSD Storage, Gigabit Ethernet. Works with iPhone/\u00a0...",
+      "Image of Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10 \u00b7 Image of Apple 2025 MacBook Air (13-inch, Apple M4 chip with 10."
+    ]
+  },
+  "chart": "<<base64 image data removed for display>>",
+  "local_file": "D:\\training\\ml_algorithms\\MCP Course\\MarketResearcherAgent\\swot_server\\analysis_results\\apple_mac_swot_20250607_194145.json",
+  "pdf_file": "D:\\training\\ml_algorithms\\MCP Course\\MarketResearcherAgent\\swot_server\\pdf_reports\\apple_mac_swot_20250607_194145.pdf",
+  "product": "apple mac",
+  "source": "api",
+  "summary": {
+    "negative": 7,
+    "positive": 3,
+    "positive_percentage": 30.0,
+    "total_reviews": 10
+  }
+}
